@@ -1,0 +1,90 @@
+07:57:24 From Nick Speelman to Everyone:
+	Hi. I'm going to ask you some questions. I'd like you to answer them to the best of your ability. Is that okay?
+07:57:38 From Human_cb9fd41d to Nick Speelman(direct message):
+	Yes
+07:57:43 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider this sentence, "Buy one dozen cookies, get four free." If I pay for one dozen cookies, how many total cookies will I receive? Please elaborate on your thought process.
+07:58:57 From Human_cb9fd41d to Nick Speelman(direct message):
+	16.  If I pay for 12 cookies and they give me 4 cookies that I didn’t pay for, I would have 16 total cookies.
+07:59:12 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider this sentence: "The man shot a buck while in his pajamas." What was the buck wearing? Please elaborate on your thought process.
+08:01:24 From Human_cb9fd41d to Nick Speelman(direct message):
+	We don’t know.  The continuation word “while” indicates we are still talking about the man.  Therefore the man is wearing the pajamas but we don’t have enough information to say what the buck is wearing.
+08:01:31 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider this sentence: "Sheila attended an interesting panel with Reverend Parsons, a successful pornographer and a single mother. Can you summarize what we know about Reverend Parsons?" Please elaborate on your thought process.
+08:07:01 From Human_cb9fd41d to Nick Speelman(direct message):
+	That they are a Reverend.  The comma usage (no Oxford comma before the “and”) is a bit ambiguous.  The panel may have consisted of the Reverend, a pornographer, and a single mother but it may also be that the Reverend is a pornographer and single mother.  The only certainty is their title of Reverend.
+08:07:08 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider this question: "How did you find the apple?" Can you restate that question in your own words?  Please elaborate on your thought process.
+08:09:43 From Human_cb9fd41d to Nick Speelman(direct message):
+	“How did the Apple taste?”.  Of course, one could also say “Tell me the process you went through to locate the apple”.  The word “find” makes both interpretations valid.
+08:09:50 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider the following paragraph: "Jimmy is a real turgler. He's always turgling. Yesterday he turgled his car because it had a broken belt. Then today he helped Suzy out by turgling her leaky sink." What does it mean to turgle something? Please elaborate on your thought process.
+08:12:46 From Human_cb9fd41d to Nick Speelman(direct message):
+	“To fix or repair”.  Based on the fact that both a broken fan belt and a leaky sink need to be fixed, this interpretation is appropriate for both cases.
+08:12:51 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider the following paragraph: "Kazoozle is going to be the next big thing. The average person can cut 24 minutes/day from their commute by choosing it over driving, or 55 minutes over public transportation." What do you think Kazoozle is? Please elaborate on your thought process.
+08:14:02 From Human_cb9fd41d to Nick Speelman(direct message):
+	A form of transportation.  This is based on the two examples both being forms of transportation.
+08:14:05 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider this sentence: "Morania is a constitutional monarchy and its biggest export is processed, unroasted coffee beans." Tell me everything you can deduce about Morania. Please elaborate on your thought process.
+08:17:56 From Human_cb9fd41d to Nick Speelman(direct message):
+	It has a king based on the fact that it is a monarchy.  The king must follow the rules of a constitution. It is located in a mountainous rainforest area, between the Tropics of Cancer and Capricorn based on where coffee grows
+08:18:08 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider the following paragraph: "Pizzusta is delicious. Sweet, spicy, fragrant. I can't wait to go back to Morania and have it again."  What is Pizzusta? Does it tell you anything new about Morania? Please elaborate on your thought process.
+08:20:21 From Human_cb9fd41d to Nick Speelman(direct message):
+	Without the prior sentence, it is impossible to tell what Pizzusta is.  If the previous sentence had been included, I would have guessed that Pizzusta is a type of coffee.
+08:20:28 From Nick Speelman to Human_cb9fd41d(direct message):
+	We are now half-way through the questionairre. Consider this sentence: "The bear is a triangle." Will it zoom? Please elaborate on your thought process.
+08:23:10 From Human_cb9fd41d to Nick Speelman(direct message):
+	Hard to say.  Circles are more compatible with zooming (as in moving quickly”, but bears, themselves are known to be quick and difficult to outrun.  So I would need more information to answer the question.
+08:23:25 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider the following paragraph: "Fifty-five is red. G-sharp is a dog." Which is bigger? Please elaborate on your thought process.
+08:25:03 From Human_cb9fd41d to Nick Speelman(direct message):
+	No idea.  Red is a color hacking no dimension and there are many types and sizes of dogs.  But based on the fact that a dog is at least real and can be measured, I’d say the dog.
+08:25:11 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider the following paragraph: "Janice wore antibiotics. Chandler ran antibiotics." Who won? Please elaborate on your thought process.
+08:27:06 From Human_cb9fd41d to Nick Speelman(direct message):
+	No idea.  But if I had to guess I’d say that “,wore” is passive and “ran” is active so the most likely “winner” is Chandler if the contest involved moving.
+08:27:11 From Nick Speelman to Human_cb9fd41d(direct message):
+	Consider the following sentence: "Jack roared loudly!" Which is it? Please elaborate on your thought process.
+08:28:13 From Human_cb9fd41d to Nick Speelman(direct message):
+	Roaring.  Loudly is an adverb to describe the roar.
+08:28:21 From Nick Speelman to Human_cb9fd41d(direct message):
+	We have four more questions. Complete this sentence: "Red is to rose as yellow is to.." Please elaborate on your thought process.
+08:30:13 From Human_cb9fd41d to Nick Speelman(direct message):
+	Banana.  A rose is mostly thought of as red (although there are other colors) and a banana is thought of as yellow (although they may also be green or brown).
+08:30:21 From Nick Speelman to Human_cb9fd41d(direct message):
+	Complete this sentence: "Birds are to freedom as cats are to..." Please elaborate on your thought process.
+08:33:09 From Human_cb9fd41d to Nick Speelman(direct message):
+	Independence.  To fly is thought of as to enjoy going where ever you want, freedom.   But cats are frequently used as examples of independence.
+08:33:11 From Nick Speelman to Human_cb9fd41d(direct message):
+	Complete this sentence: "Autumn is to sweater as summer is to..." Please elaborate on your thought process.
+08:34:26 From Human_cb9fd41d to Nick Speelman(direct message):
+	Shorts.  Because the weather is cooler in autumn, we wear sweaters. But summer is hot (at least in the northern hemisphere) and so we wear shorts.  It is location dependent though.
+08:34:31 From Nick Speelman to Human_cb9fd41d(direct message):
+	Complete this sentence: "Time is to aging as Jupiter is to..." Please elaborate on your thought process.
+08:35:11 From Human_cb9fd41d to Nick Speelman(direct message):
+	No guess.
+08:35:33 From Nick Speelman to Human_cb9fd41d(direct message):
+	That completes the questionnaire. I'm out of character now. You're free to ask me any questions. Long story short, the project is trying to assess how well LLMs "understand" vs just mimic human language
+08:35:56 From Human_cb9fd41d to Nick Speelman(direct message):
+	What is an LLM?
+08:35:59 From Nick Speelman to Human_cb9fd41d(direct message):
+	I fed all of these responses to different ChatGPT models with different parameters and am comparing those to human response
+08:36:03 From Nick Speelman to Human_cb9fd41d(direct message):
+	large language model
+08:36:18 From Nick Speelman to Human_cb9fd41d(direct message):
+	chatgpt, gemini, Microsoft copilot
+08:36:29 From Human_cb9fd41d to Nick Speelman(direct message):
+	Huh.  You are a genius.  I’m glad I know you!
+08:36:39 From Nick Speelman to Human_cb9fd41d(direct message):
+	hey thanks
+08:36:57 From Nick Speelman to Human_cb9fd41d(direct message):
+	that's all I have. thank you for helping
+08:37:10 From Human_cb9fd41d to Nick Speelman(direct message):
+	Take care.  Let’s try to do lunch or something when I get back.
+08:37:17 From Nick Speelman to Human_cb9fd41d(direct message):
+	for sure
+08:37:33 From Nick Speelman to Human_cb9fd41d(direct message):
+	enjoy the rest of your time in the maritimes
