@@ -1,0 +1,84 @@
+19:03:10 From Nick Speelman to Everyone:
+	Hi. I'm going to ask you some questions. I'd like you to answer them to the best of your ability. Is that okay?
+19:03:24 From Human_591aa459 to Nick Speelman(direct message):
+	Yes
+19:03:59 From Nick Speelman to Human_591aa459(direct message):
+	Consider this sentence, "Buy one dozen cookies, get four free." If I pay for one dozen cookies, how many total cookies will I receive? Please elaborate on your thought process.
+19:05:18 From Human_591aa459 to Nick Speelman(direct message):
+	16. Because 5 dozen seems like a lot of cookies , and the sentences says 4, not 4 dozen.
+19:05:23 From Nick Speelman to Human_591aa459(direct message):
+	Consider this sentence: "The man shot a buck while in his pajamas." What was the buck wearing? Please elaborate on your thought process.
+19:05:51 From Human_591aa459 to Nick Speelman(direct message):
+	Nothing because bucks don’t wear clothes
+19:05:58 From Nick Speelman to Human_591aa459(direct message):
+	Consider this sentence: "Sheila attended an interesting panel with Reverend Parsons, a successful pornographer and a single mother. Can you summarize what we know about Reverend Parsons?" Please elaborate on your thought process.
+19:06:54 From Human_591aa459 to Nick Speelman(direct message):
+	Parsons is a woman and a single mom and a rich pornographer
+19:07:00 From Nick Speelman to Human_591aa459(direct message):
+	Consider this question: "How did you find the apple?" Can you restate that question in your own words?  Please elaborate on your thought process.
+19:08:45 From Human_591aa459 to Nick Speelman(direct message):
+	Where was the Apple? The word Find makes me the think of location but on more consideration the question is probably asking if the apple was good.
+19:08:55 From Nick Speelman to Human_591aa459(direct message):
+	Consider the following paragraph: "Jimmy is a real turgler. He's always turgling. Yesterday he turgled his car because it had a broken belt. Then today he helped Suzy out by turgling her leaky sink." What does it mean to turgle something? Please elaborate on your thought process.
+19:09:57 From Human_591aa459 to Nick Speelman(direct message):
+	Fix or repair - determined by the context of helping someone with broken things
+19:10:01 From Nick Speelman to Human_591aa459(direct message):
+	Consider the following paragraph: "Kazoozle is going to be the next big thing. The average person can cut 24 minutes/day from their commute by choosing it over driving, or 55 minutes over public transportation." What do you think Kazoozle is? Please elaborate on your thought process.
+19:11:19 From Human_591aa459 to Nick Speelman(direct message):
+	A new fast form of transportation- it helps with commutes and isn’t being labeled as public but as an alternative
+19:11:26 From Human_591aa459 to Nick Speelman(direct message):
+	Maybe a train
+19:11:29 From Nick Speelman to Human_591aa459(direct message):
+	Consider this sentence: "Morania is a constitutional monarchy and its biggest export is processed, unroasted coffee beans." Tell me everything you can deduce about Morania. Please elaborate on your thought process.
+19:13:22 From Human_591aa459 to Nick Speelman(direct message):
+	It’s probably in a warm mountainous climate has a Queen or king and a parliament I think this because on its export and the climate needed to produce coffee.
+19:13:31 From Nick Speelman to Human_591aa459(direct message):
+	Consider the following paragraph: "Pizzusta is delicious. Sweet, spicy, fragrant. I can't wait to go back to Morania and have it again."  What is Pizzusta? Does it tell you anything new about Morania? Please elaborate on your thought process.
+19:16:01 From Human_591aa459 to Nick Speelman(direct message):
+	Because it’s sweet spicy and fragrant it suggests Morania might also have a lot of good crop land to produce a lot of variety and the cuisine is complex. I think pizzusta is a food because it’s described aS delicious and I think of foods not beverages as being delicious
+19:16:12 From Nick Speelman to Human_591aa459(direct message):
+	We are now half-way through the questionairre. Consider this sentence: "The bear is a triangle." Will it zoom? Please elaborate on your thought process.
+19:17:54 From Human_591aa459 to Nick Speelman(direct message):
+	Yes. I think a triangle shaped bear object could move fast. I think the word zoom and the shape of a triangle makes me think of speed.
+19:18:55 From Nick Speelman to Human_591aa459(direct message):
+	Consider the following paragraph: "Fifty-five is red. G-sharp is a dog." Which is bigger? Please elaborate on your thought process.
+19:19:52 From Human_591aa459 to Nick Speelman(direct message):
+	G sharp is bigger. I this red 55 is a number written in red and gsharp is a dog so the dog is bigger.
+19:19:59 From Nick Speelman to Human_591aa459(direct message):
+	Consider the following paragraph: "Janice wore antibiotics. Chandler ran antibiotics." Who won? Please elaborate on your thought process.
+19:20:30 From Human_591aa459 to Nick Speelman(direct message):
+	Chandler because running of faster than wearing
+19:20:35 From Nick Speelman to Human_591aa459(direct message):
+	Consider the following sentence: "Jack roared loudly!" Which is it? Please elaborate on your thought process.
+19:21:22 From Human_591aa459 to Nick Speelman(direct message):
+	This one I’m stumped by I don’t know what could be being compared
+19:21:28 From Nick Speelman to Human_591aa459(direct message):
+	We have four more questions. Complete this sentence: "Red is to rose as yellow is to.." Please elaborate on your thought process.
+19:23:32 From Human_591aa459 to Nick Speelman(direct message):
+	Daisy because yellow is a color the flower is closely associated with in pictures.
+19:23:38 From Nick Speelman to Human_591aa459(direct message):
+	Complete this sentence: "Birds are to freedom as cats are to..." Please elaborate on your thought process.
+19:24:38 From Human_591aa459 to Nick Speelman(direct message):
+	Leisure because birds are free by soaring and flying  and cats epitomize doing whatever one wants
+19:24:57 From Nick Speelman to Human_591aa459(direct message):
+	Complete this sentence: "Autumn is to sweater as summer is to..." Please elaborate on your thought process.
+19:25:23 From Human_591aa459 to Nick Speelman(direct message):
+	Tee shirts because it’s the top I usually wear in the summer heat
+19:25:31 From Nick Speelman to Human_591aa459(direct message):
+	Complete this sentence: "Time is to aging as Jupiter is to..." Please elaborate on your thought process.
+19:26:39 From Human_591aa459 to Nick Speelman(direct message):
+	The tides - like maybe the big planet causes some change in tides as time causes aging
+19:26:46 From Nick Speelman to Human_591aa459(direct message):
+	That completes the quesionairre. I'm out of character now if you have any questions. Long story short: I'm trying to determine if LLMs "understand" language or just mimic it by comparing the results of questions aimed at gauging understanding between ChatGPT and human response
+19:26:52 From Nick Speelman to Human_591aa459(direct message):
+	Thank you!
+19:27:53 From Human_591aa459 to Nick Speelman(direct message):
+	Wow! Good luck Nick. These are fun questions. I hope the cat ladies don’t threw off your results because a cat was mentioned. lol 😂
+19:27:59 From Human_591aa459 to Nick Speelman(direct message):
+	See ya later.
+19:28:27 From Nick Speelman to Human_591aa459(direct message):
+	Reacted to "Wow! Good luck Nick...." with 😂
+19:28:33 From Nick Speelman to Human_591aa459(direct message):
+	see ya!
+19:28:39 From Human_591aa459 to Nick Speelman(direct message):
+	Reacted to "see ya!" with ☺️

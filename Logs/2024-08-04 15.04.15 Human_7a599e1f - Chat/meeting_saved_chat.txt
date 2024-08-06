@@ -1,0 +1,82 @@
+15:04:14 From Nick Speelman to Everyone:
+	Hi. I'm going to ask you some questions. I'd like you to answer them to the best of your ability. Is that okay?
+15:05:04 From Human_7a599e1f to Everyone:
+	Yes
+15:05:06 From Nick Speelman to Everyone:
+	Consider this sentence, "Buy one dozen cookies, get four free." If I pay for one dozen cookies, how many total cookies will I receive? Please elaborate on your thought process.
+15:06:28 From Human_7a599e1f to Everyone:
+	16. Buying one dozen adds 4 to the 12 purchased.
+15:06:38 From Nick Speelman to Everyone:
+	Consider this sentence: "The man shot a buck while in his pajamas." What was the buck wearing? Please elaborate on your thought process.
+15:07:38 From Human_7a599e1f to Everyone:
+	Fur. Man is in his pajamas and buck is probably naked.
+15:08:09 From Nick Speelman to Everyone:
+	Consider this sentence: "Sheila attended an interesting panel with Reverend Parsons, a successful pornographer and a single mother. Can you summarize what we know about Reverend Parsons?" Please elaborate on your thought process.
+15:10:23 From Human_7a599e1f to Everyone:
+	Reverend Parsons is a successful pornographer, single mother, a religious leader of some kind (likely Christian), and speaking at a panel. Shared all the details on Parsons that were included.
+15:10:28 From Nick Speelman to Everyone:
+	Consider this question: "How did you find the apple?" Can you restate that question in your own words?  Please elaborate on your thought process.
+15:12:30 From Human_7a599e1f to Everyone:
+	Oh the apple, how did you find it? Was challenging to think of another way to phrase the question for "how", so tried flip the order.
+15:12:59 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Jimmy is a real turgler. He's always turgling. Yesterday he turgled his car because it had a broken belt. Then today he helped Suzy out by turgling her leaky sink." What does it mean to turgle something? Please elaborate on your thought process.
+15:15:12 From Human_7a599e1f to Everyone:
+	Turgle is to fix or repair something. Could be several things with the car, but the added context of helping someone with leaking sink makes it seem like it to fix or repair.
+15:15:40 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Kazoozle is going to be the next big thing. The average person can cut 24 minutes/day from their commute by choosing it over driving, or 55 minutes over public transportation." What do you think Kazoozle is? Please elaborate on your thought process.
+15:18:03 From Human_7a599e1f to Everyone:
+	Teleporting to work. You can only do it from stations set up for teleporting, so there is still time required to go to these stations and to go to work from them.
+15:18:26 From Nick Speelman to Everyone:
+	Consider this sentence: "Morania is a constitutional monarchy and its biggest export is processed, unroasted coffee beans." Tell me everything you can deduce about Morania. Please elaborate on your thought process.
+15:23:24 From Human_7a599e1f to Everyone:
+	I believe that Morania is filled with sleepy people in need of more science, that don't know the joys of coffee. With a more diverse government and greater focus on scientific discovery they may be able to find a better use for all their coffee beans. Thinking this because it is monarchy and would hope that someone would have figured out how great roasting coffee is.
+15:23:28 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Pizzusta is delicious. Sweet, spicy, fragrant. I can't wait to go back to Morania and have it again."  What is Pizzusta? Does it tell you anything new about Morania? Please elaborate on your thought process.
+15:25:51 From Human_7a599e1f to Everyone:
+	Maybe food. Seems like Morania may have at least one good dish to eat. Could be drink, perfume, or food, but it seems to be consumed, and the description sounds like food.
+15:25:59 From Nick Speelman to Everyone:
+	We are now half-way through the questionairre. Consider this sentence: "The bear is a triangle." Will it zoom? Please elaborate on your thought process.
+15:27:52 From Human_7a599e1f to Everyone:
+	Yes. Shape has no bearing on whether an animal will zoom or not. It is all about the desire to zoom.
+15:28:03 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Fifty-five is red. G-sharp is a dog." Which is bigger? Please elaborate on your thought process.
+15:32:06 From Human_7a599e1f to Everyone:
+	Neither, the units are different. Need more context to connect the values. There are many G-sharps in scale and would have different values, and 55 just seems to a number.
+15:32:12 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Janice wore antibiotics. Chandler ran antibiotics." Who won? Please elaborate on your thought process.
+15:32:24 From Nick Speelman to Everyone:
+	Consider the following sentence: "Jack roared loudly!" Which is it? Please elaborate on your thought process.
+15:32:35 From Nick Speelman to Everyone:
+	sorry. ignore that second one
+15:33:57 From Human_7a599e1f to Everyone:
+	Chandler. Sounds like Janice supports antibiotics, but Chandler participated.
+15:34:14 From Nick Speelman to Everyone:
+	okay now...
+15:34:16 From Nick Speelman to Everyone:
+	"Jack roared loudly!" Which is it? Please elaborate on your thought process.
+15:36:17 From Human_7a599e1f to Everyone:
+	Jack is a lion. They have roars that can be heard for miles.
+15:36:19 From Nick Speelman to Everyone:
+	We have four more questions. Complete this sentence: "Red is to rose as yellow is to.." Please elaborate on your thought process.
+15:38:00 From Human_7a599e1f to Everyone:
+	Sunflower. My gut responses were pee and banana because there are so many pee jokes and Alex loves "banana" to name yellow. Sunflower fits better with rose.
+15:38:24 From Nick Speelman to Everyone:
+	Complete this sentence: "Birds are to freedom as cats are to..." Please elaborate on your thought process.
+15:40:37 From Human_7a599e1f to Everyone:
+	exploration. Cats get into lots of things and birds can fly around easily (freely even).
+15:40:43 From Nick Speelman to Everyone:
+	Complete this sentence: "Autumn is to sweater as summer is to..." Please elaborate on your thought process.
+15:41:30 From Human_7a599e1f to Everyone:
+	shorts. Sweaters and shorts are both common and important clothes for each season.
+15:42:21 From Nick Speelman to Everyone:
+	Complete this sentence: "Time is to aging as Jupiter is to..." Please elaborate on your thought process.
+15:45:20 From Human_7a599e1f to Everyone:
+	orbiting. Was hard to decide. Aging is process impacted by time, while Jupiter impacts the moons that orbit it.
+15:45:29 From Nick Speelman to Everyone:
+	Those are all the prompts. I'm out of character now if you have any questions. Long story short I'm looking at whether LLMs like chatgpt "understand" or if they just mimic speech. so all these same prompts were given to a bunch of different gpt models and i'm comparing human and machine responses. THANK YOU!
+15:46:25 From Human_7a599e1f to Everyone:
+	Cool! Some of them where strange and made me laugh. It was fun. Glad to help.
+15:46:45 From Nick Speelman to Everyone:
+	cool. I've got nothing else unless you do
+15:46:59 From Human_7a599e1f to Everyone:
+	See you then!

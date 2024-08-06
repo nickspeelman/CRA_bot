@@ -1,0 +1,92 @@
+17:01:54 From Nick Speelman to Everyone:
+	Hi. I'm going to ask you some questions. I'd like you to answer them to the best of your ability. Is that okay?
+17:02:12 From Human_1bdd548d to Everyone:
+	yep
+17:02:15 From Nick Speelman to Everyone:
+	Consider this sentence, "Buy one dozen cookies, get four free." If I pay for one dozen cookies, how many total cookies will I receive? Please elaborate on your thought process.
+17:03:19 From Human_1bdd548d to Everyone:
+	you would get 16 cookies, you have to buy the initial 12 to get the 4 for free, so it's 12+4
+17:03:25 From Nick Speelman to Everyone:
+	Consider this sentence: "The man shot a buck while in his pajamas." What was the buck wearing? Please elaborate on your thought process.
+17:06:00 From Human_1bdd548d to Everyone:
+	We either don't get enough information on the buck relating to their clothes, or if we assume the pronoun "his" is referring to the buck, then he is wearing pajamas. I believe the pronoun "his" is referring to the man since we know he is a man, so I'm going to say the buck was wearing nothing.
+17:06:14 From Nick Speelman to Everyone:
+	Consider this sentence: "Sheila attended an interesting panel with Reverend Parsons, a successful pornographer and a single mother. Can you summarize what we know about Reverend Parsons?" Please elaborate on your thought process.
+17:12:58 From Human_1bdd548d to Everyone:
+	There are several ways this could be interpreted. One way would be to assume Sheila and Reverend are attending the panel together instead of Sheila attending a panel on Reverend. If we assume that you could see the second half of the question as pertaining to both of them, or just Reverend; the sentence could be "A and B, A and B" essentially, Sheila is the pornographer, and Reverend is the single mother. Either that, or Reverend is the pornographer and single mother. But if you assume that Reverend is on the panel, then it would only really make sense to assume that the second half of the sentence is all about Reverend. Because there are more possibilities for the second half of the sentence to be about Reverend, I believe that to be the case. so Reverend is a successful pornographer, a single mother, and in/on an interesting panel.
+17:13:02 From Nick Speelman to Everyone:
+	Consider this question: "How did you find the apple?" Can you restate that question in your own words?  Please elaborate on your thought process.
+17:23:08 From Human_1bdd548d to Everyone:
+	My immediate thought is this question is hard to restate without context. Where are we? What are we doing? This would provide us with the reason for the question. If we are in an area that would normally not have apples, asking the question in this way implies it shouldn't be possible to get an apple, "How were you able to get an apple here?" But if we are at a restaurant, a waiter could have asked us this question about how the food was, "How is your food (the apple) tasting?" And lastly, this could be asked by someone playing a game where they have to hid and find apples, if they thought they hid the apple really well, but then someone found it they may ask this question, "How did you discover the spot with the apple?" There are some clues here that can help, the use of the word "the" implies some importance to the apple, this is not talking about apples in general, but a specific apple. The other clue is the us of the word "find" which, while it could be someone asking about the state of the apple, is	far more likely to be about the location of the apple, so i believe the question could be restated like, "Where did you get that apple?"
+17:23:20 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Jimmy is a real turgler. He's always turgling. Yesterday he turgled his car because it had a broken belt. Then today he helped Suzy out by turgling her leaky sink." What does it mean to turgle something? Please elaborate on your thought process.
+17:35:11 From Human_1bdd548d to Everyone:
+	we'll have to use context clue to figure out what this word means, so first, in what ways is it used? Jimmy is referred to as a "turgler" (noun) but also that he does "turgling" (verb) and he "turgled" his car and Suzy's sink (verb). So far we can gather that turgle is usually a verb, but can become a noun when referring it to a person as a sort of occupation. The first two uses of the word do not give us much to go off of without knowing more about Jimmy. The second two examples give us much more context as in one Jimmy does something to his car because of a broken part, and in another he does something to a broken sink. We don't know however when was done to those things, turgle could mean to destroy or to fix and we would be none the wiser, if not for one word, "helped." This word implies that to turgle something is a positive or good thing, or at least something that you do when helping someone. So with all that in mind I believe that turgle means to fix something.
+17:35:18 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Kazoozle is going to be the next big thing. The average person can cut 24 minutes/day from their commute by choosing it over driving, or 55 minutes over public transportation." What do you think Kazoozle is? Please elaborate on your thought process.
+17:46:16 From Human_1bdd548d to Everyone:
+	What do we know about kazoozle? It's becoming very popular, and it seems to be a very fast form of transportation as it is faster than driving and public transit, that last part also implies it is something you do alone or in small groups as it is not a form of public transit itself. For it to be faster than driving it either needs to be able to travel faster than a car, or bypass the things that slow a car down (frequent stops, other cars). This means that kazoozle is probably something that happens in either the air, or under the ground, but also won't fall into the same traps as cars, like having to make stops, or traffic. In my mind, there are only two options I can think of: tubes built into people's homes that can take you where you need to go (like in Futurama), or some form of personally flying. The tubes, unfortunately, are taken out of the running because I believe that would be considered a form of public transit, which kazoozle is faster than. So kazoozle must be a personal flying device.
+17:46:20 From Nick Speelman to Everyone:
+	Consider this sentence: "Morania is a constitutional monarchy and its biggest export is processed, unroasted coffee beans." Tell me everything you can deduce about Morania. Please elaborate on your thought process.
+17:55:50 From Human_1bdd548d to Everyone:
+	Morania is a place that has a constitution that establishes a monarchy, it has an export, and that export is processed coffee beans, that have not been roasted. From this you can gather a lot. Morania must be a country, because there is no single city with a monarchy. The monarchy is also part of the government, since it is constitutional. The fact that their biggest export is coffee beans implies that Morania is located in a hot tropical climate since that is where these plants would thrive. The beans have been processed, but not roasted so some amount effort goes into preparing the beans as an export, but not the cooking, this may be due to space, Morania might not be big enough to have plants that can process and roast the beans, either that or they are environmentally conscious.
+17:55:58 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Pizzusta is delicious. Sweet, spicy, fragrant. I can't wait to go back to Morania and have it again."  What is Pizzusta? Does it tell you anything new about Morania? Please elaborate on your thought process.
+18:02:17 From Human_1bdd548d to Everyone:
+	The use of the adjectives "delicious," "sweet," "spicy," and "fragrant" implies pizzusta is a food, and that it is a food that can have either multiple ways of being prepared or multiple different types. Also, since the person saying the paragraph wants to return to Morania to have it again, that means it is either only prepared there, or they have the best kinds there. I believe pizzusta is a type of food that is primarily prepared in Morania because the ingredients are grown there, and it has multiple different types that have different flavor profiles. This tells us more about Morania, that it allows in tourists, and that they enjoy going there to eat food, and that food is either the best in Morania, or the way to make the food is not shared outside of Morania.
+18:02:30 From Nick Speelman to Everyone:
+	We are now half-way through the questionairre. Consider this sentence: "The bear is a triangle." Will it zoom? Please elaborate on your thought process.
+18:05:03 From Human_1bdd548d to Everyone:
+	Zooming is something that implies moving fast, and moving fast normally is done best when done with something round, like wheels. Triangles are about as far from something round as you can get, so if something is a triangle it would make sense to wonder how it will zoom, since it cannot easily roll or move fast.
+18:05:30 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Fifty-five is red. G-sharp is a dog." Which is bigger? Please elaborate on your thought process.
+18:07:02 From Human_1bdd548d to Everyone:
+	I don't know if you have even remotely enough information to know which one is bigger. In isolation this paragraph just said 4 random words and then asked me to compare them.
+18:07:19 From Nick Speelman to Everyone:
+	Consider the following paragraph: "Janice wore antibiotics. Chandler ran antibiotics." Who won? Please elaborate on your thought process.
+18:09:39 From Human_1bdd548d to Everyone:
+	I'm less concerned with what the antibiotics are that you can wear them and run them, and more with what is being won? What is the competition? What are the criteria? Do the antibiotics even play a role? I'd say Chandler won.
+18:09:47 From Nick Speelman to Everyone:
+	Consider the following sentence: "Jack roared loudly!" Which is it? Please elaborate on your thought process.
+18:11:10 From Human_1bdd548d to Everyone:
+	Which is what? Are they asking which between Jack and loudly? or between something in this sentence, and something else? I simply do not know.
+18:11:55 From Nick Speelman to Everyone:
+	We have four more questions. Complete this sentence: "Red is to rose as yellow is to.." Please elaborate on your thought process.
+18:13:32 From Human_1bdd548d to Everyone:
+	sunflower. rose is a flower that is red, so it would make sense that yellow is to a flower as well that is probably yellow.
+18:13:51 From Nick Speelman to Everyone:
+	Complete this sentence: "Birds are to freedom as cats are to..." Please elaborate on your thought process.
+18:15:06 From Human_1bdd548d to Everyone:
+	prison. Birds live outside and can fly, so they are like freedom, cats primarily live inside and on the ground, so it would make sense that it was something that was the opposite of freedom, like prison.
+18:15:24 From Nick Speelman to Everyone:
+	Complete this sentence: "Autumn is to sweater as summer is to..." Please elaborate on your thought process.
+18:17:19 From Human_1bdd548d to Everyone:
+	tanktop. both Autumn and summer are seasons, and Autumn is colder than summer. Sweater is a warm pieces of clothing that you might wear in autumn, so it follows that the line pertaining to summer would also be clothing, and that you might wear when it is hot out.
+18:19:35 From Nick Speelman to Everyone:
+	Complete this sentence: "Time is to aging as Jupiter is to..." Please elaborate on your thought process.
+18:21:40 From Human_1bdd548d to Everyone:
+	gravity. Aging is something that happens or comes about thanks to time. Gravity, likewise is something that happens because a planet like Jupiter exists.
+18:22:18 From Nick Speelman to Everyone:
+	That's the end of the questionnaire. I'm out of character now if you have any questions. Long story short I'm trying to see if LLMs like ChatGPT actually "understand" or if they just mimic speech. All of these prompts were giving to a few different LLM models with different parameters and i'm comparing the responses to actual human responses.
+18:22:22 From Nick Speelman to Everyone:
+	thank you!
+18:23:23 From Human_1bdd548d to Everyone:
+	Interesting, did anyone explain their thought process as much as me about How the apples were?
+18:23:31 From Nick Speelman to Everyone:
+	not even close
+18:23:37 From Nick Speelman to Everyone:
+	lol
+18:23:51 From Human_1bdd548d to Everyone:
+	Incredible, sorry this took an hour over what you thought
+18:24:02 From Nick Speelman to Everyone:
+	no worries
+18:24:13 From Nick Speelman to Everyone:
+	i got plenty done while i was waiting
+18:24:47 From Human_1bdd548d to Everyone:
+	Do you need anything else from me? I should probably start dinner soon?
+18:25:01 From Nick Speelman to Everyone:
+	nope. that's it
+18:25:05 From Nick Speelman to Everyone:
+	thank you again
+18:25:15 From Human_1bdd548d to Everyone:
+	No problem, have a good night!
